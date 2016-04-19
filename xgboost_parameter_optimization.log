@@ -1,0 +1,122 @@
+params 
+{'subsample': 0.6815800000000001, 'colsample_bytree': 0.7020000000000001, 'gamma': 0.85, 'min_child_weight': 3}
+cross-val scores
+[ 0.96070372  0.96020719  0.96094713  0.96061827  0.96053605]
+value
+9.48744722736e-06
+params 
+{'subsample': 0.68157, 'colsample_bytree': 0.7016, 'gamma': 0.98, 'min_child_weight': 6}
+cross-val scores
+[ 0.96078593  0.9602894   0.96102935  0.96070049  0.96053605]
+value
+9.73463339964e-06
+params 
+{'subsample': 0.6815500000000001, 'colsample_bytree': 0.7018, 'gamma': 0.9500000000000001, 'min_child_weight': 5}
+cross-val scores
+[ 0.96078593  0.9602894   0.96102935  0.96053605  0.96053605]
+value
+9.91661062658e-06
+params 
+{'subsample': 0.68159, 'colsample_bytree': 0.7013, 'gamma': 0.91, 'min_child_weight': 9}
+cross-val scores
+[ 0.96078593  0.96037162  0.96094713  0.96053605  0.96053605]
+value
+8.0511444068e-06
+params 
+{'subsample': 0.6816000000000001, 'colsample_bytree': 0.7015, 'gamma': 0.84, 'min_child_weight': 4}
+cross-val scores
+[ 0.96078593  0.9602894   0.96102935  0.96070049  0.96053605]
+value
+9.73463339964e-06
+params 
+{'subsample': 0.6815000000000001, 'colsample_bytree': 0.7017, 'gamma': 1.0, 'min_child_weight': 1}
+cross-val scores
+[ 0.96070372  0.96020719  0.9607827   0.96061827  0.96045384]
+value
+8.06799891835e-06
+params 
+{'subsample': 0.6816000000000001, 'colsample_bytree': 0.7016, 'gamma': 0.61, 'min_child_weight': 5}
+cross-val scores
+[ 0.96078593  0.9602894   0.96102935  0.96053605  0.96053605]
+value
+9.91661062658e-06
+params 
+{'subsample': 0.6815500000000001, 'colsample_bytree': 0.7012, 'gamma': 0.66, 'min_child_weight': 9}
+cross-val scores
+[ 0.96070372  0.96037162  0.96094713  0.96053605  0.96053605]
+value
+7.67289390264e-06
+params 
+{'subsample': 0.6815500000000001, 'colsample_bytree': 0.7017, 'gamma': 0.5, 'min_child_weight': 4}
+cross-val scores
+[ 0.96070372  0.96037162  0.96094713  0.96070049  0.96053605]
+value
+7.55213208985e-06
+params 
+{'subsample': 0.6815000000000001, 'colsample_bytree': 0.7017, 'gamma': 0.85, 'min_child_weight': 2}
+cross-val scores
+[ 0.96070372  0.96020719  0.96086492  0.96070049  0.96053605]
+value
+8.79893773208e-06
+params 
+{'subsample': 0.68159, 'colsample_bytree': 0.7017, 'gamma': 0.76, 'min_child_weight': 2}
+cross-val scores
+[ 0.96070372  0.96012497  0.96086492  0.96070049  0.96045384]
+value
+1.01823476459e-05
+params 
+{'subsample': 0.68154, 'colsample_bytree': 0.7018, 'gamma': 0.61, 'min_child_weight': 2}
+cross-val scores
+[ 0.96062151  0.96012497  0.96094713  0.96070049  0.96045384]
+value
+1.0776205184e-05
+params 
+{'subsample': 0.68154, 'colsample_bytree': 0.7013, 'gamma': 0.87, 'min_child_weight': 6}
+cross-val scores
+[ 0.96070372  0.9602894   0.96102935  0.96070049  0.96053605]
+value
+9.5144595422e-06
+params 
+{'subsample': 0.6815800000000001, 'colsample_bytree': 0.7017, 'gamma': 0.53, 'min_child_weight': 9}
+cross-val scores
+[ 0.96070372  0.96037162  0.96094713  0.96053605  0.96053605]
+value
+7.67289390264e-06
+params 
+{'subsample': 0.68159, 'colsample_bytree': 0.7018, 'gamma': 0.7000000000000001, 'min_child_weight': 6}
+cross-val scores
+[ 0.96078593  0.9602894   0.96094713  0.96061827  0.96053605]
+value
+8.79717376671e-06
+params 
+{'subsample': 0.6815300000000001, 'colsample_bytree': 0.7015, 'gamma': 0.65, 'min_child_weight': 9}
+cross-val scores
+[ 0.96078593  0.96037162  0.96094713  0.96053605  0.96053605]
+value
+8.0511444068e-06
+params 
+{'subsample': 0.68154, 'colsample_bytree': 0.7014, 'gamma': 1.0, 'min_child_weight': 6}
+cross-val scores
+[ 0.96078593  0.9602894   0.96102935  0.96061827  0.96053605]
+value
+9.7403886401e-06
+params 
+{'subsample': 0.6816000000000001, 'colsample_bytree': 0.7012, 'gamma': 0.76, 'min_child_weight': 6}
+cross-val scores
+[ 0.96070372  0.9602894   0.96102935  0.96061827  0.96053605]
+value
+9.47605340646e-06
+params 
+{'subsample': 0.6815100000000001, 'colsample_bytree': 0.7017, 'gamma': 0.76, 'min_child_weight': 3}
+cross-val scores
+[ 0.96062151  0.9602894   0.96094713  0.96053605  0.96053605]
+value
+8.35425208924e-06
+params 
+{'subsample': 0.6815500000000001, 'colsample_bytree': 0.7010000000000001, 'gamma': 0.89, 'min_child_weight': 6}
+cross-val scores
+[ 0.96078593  0.9602894   0.96094713  0.96061827  0.96053605]
+value
+8.79717376671e-06
+params 
+{'subsample': 0.68157, 'colsample_bytree': 0.7020000000000001, 'gamma': 0.53, 'min_child_weight': 4}
